@@ -1,1 +1,1 @@
-# odin-recipes
+I finally reach this point, the end of HTML basics course. It's a small step, but towards the direction I want to advance. # odin-recipes
